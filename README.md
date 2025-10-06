@@ -1,4 +1,4 @@
-# ⏰ 調整さんの日程候補テキスト生成ツール
+# ⏰ 調整さん 日付×時刻 直積集合 ジェネレータ
 <img width="857" height="927" alt="ctg" src="https://github.com/user-attachments/assets/9727f829-58aa-4d0d-83c4-51506b4ed593" />
 
 [調整さん](https://chouseisan.com)用のツールです。    
