@@ -1,6 +1,5 @@
 # ⏰ 調整さん 日付×時刻 直積集合 ジェネレータ
-<img width="1071" height="937" alt="スクリーンショット 2025-10-06 195826" src="https://github.com/user-attachments/assets/1503b748-a5f1-4618-8001-e5025423766c" />
-
+<img width="1209" height="941" alt="スクリーンショット 2025-10-09 155552" src="https://github.com/user-attachments/assets/3185ac45-a088-4402-a54a-f1eb528b92ad"/>
 
 [調整さん](https://chouseisan.com)用のツールです。    
 生成したい日付と時間を指定すると、その直積集合を生成します。
